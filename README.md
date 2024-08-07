@@ -10,7 +10,6 @@
 - Module/Extension: Shipping, payment, discount, ...
 - Upload manager: banner, images,..
 - SEO support: customer URL b
-- Newsletter management
 - Contact forms with the real-time notification (Laravel Pusher)
 - Related Products, Recommendations for you in our categories
 - A Product search form
@@ -31,7 +30,6 @@ many more......
 - Category management
 - Brand management
 - Shipping Management
-- Review Management
 - Blog, Category & Tag manager
 - User Management
 - Coupon Management
